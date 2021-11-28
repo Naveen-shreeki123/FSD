@@ -1,0 +1,41 @@
+#calc-contain {
+    position: relative;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: auto;
+    margin-top: 30vh;
+    padding: 20px 20px 100px 20px;
+    background-color: rgb(236, 216, 228);
+    align-content: center;
+}
+
+input[type=button] {
+    background: rgb(149, 143, 143);
+    width: 20%;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 7px;
+    margin-left: 13px;
+    margin-top: 24px;
+}
+
+input[type=text] {
+    width: 380px;
+    margin-left: 8px;
+    height: 25px;
+    border-radius: 5%;
+}
+
+#ans {
+    margin: 20px auto;
+    width: 100%;
+    height: 11vh;
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+}
+
+body {
+    background-color: #e0fbfc;
+}
